@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringBoot_Restful_Service" />
+        <module name="gatewayproxyservice" />
         <module name="MuzixRestfulService" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="MuzixRestfulService" options="-parameters" />
       <module name="SpringBoot_Restful_Service" options="-parameters" />
+      <module name="gatewayproxyservice" options="-parameters" />
     </option>
   </component>
 </project>
