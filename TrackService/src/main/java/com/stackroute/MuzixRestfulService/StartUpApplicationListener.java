@@ -38,9 +38,9 @@ public class StartUpApplicationListener implements
 
 //        track = new Track(trackId,trackName,comments);
 
-        track = new Track(Integer.parseInt(env.getProperty("trackId")),env.getProperty("trackName"), env.getProperty("comments"));
-
-        trackService.seedData(track);
+//        track = new Track(Integer.parseInt(env.getProperty("trackId")),env.getProperty("trackName"), env.getProperty("comments"));
+//
+//        trackService.seedData(track);
     }
 
 }
