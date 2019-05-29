@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UserService.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="120">
+              <caret line="8" column="61" lean-forward="true" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -86,73 +86,6 @@
           <expand>
             <path>
               <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekaserverservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springconfigserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="UserService" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -180,6 +113,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="SpringBoot_Restful_Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot_Restful_Service" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
@@ -189,13 +131,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="SpringBoot_Restful_Service" type="462c0819:PsiDirectoryNode" />
               <item name="SpringBootRestfulServiceApplication.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UserService" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,7 +230,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3847185" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28686327" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -392,10 +327,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UserService/src/main/java/com/stackroute/SpringBoot_Restful_Service/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UserService.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="120">
+          <caret line="8" column="61" lean-forward="true" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
         </state>
       </provider>
     </entry>
