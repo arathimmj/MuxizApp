@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/UserService/pom.xml" />
         <option value="$PROJECT_DIR$/TrackService/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-config-server/pom.xml" />
       </list>
     </option>
   </component>
