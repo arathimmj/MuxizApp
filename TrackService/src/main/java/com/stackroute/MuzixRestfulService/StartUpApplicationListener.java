@@ -11,7 +11,6 @@ import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Component;
 
 @Component
-@PropertySource("classpath:application.properties")
 public class StartUpApplicationListener implements
         ApplicationListener<ContextRefreshedEvent> {
 

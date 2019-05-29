@@ -33,19 +33,19 @@ public class MuzixRestfulServiceApplication {
 
 }
 
-@RefreshScope
-@RestController
-class MessageRestController {
+//@RefreshScope
+//@RestController
+//class MessageRestController {
+////
+////		@Value("${msg:Hello world - Config Server is not working..pelase check}")
+////		private String msg;
 //
-//		@Value("${msg:Hello world - Config Server is not working..pelase check}")
-//		private String msg;
-
-	@RequestMapping
-	String getMsg() {
-		String msg;
-		msg = "stackroute";
-		return msg;
-
-	}
-}
+//	@RequestMapping
+//	String getMsg() {
+//		String msg;
+//		msg = "stackroute";
+//		return msg;
+//
+//	}
+//}
 
