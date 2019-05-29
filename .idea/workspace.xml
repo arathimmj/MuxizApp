@@ -1,46 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b30759f-49dd-4075-acb3-dafed370f9ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrackService/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserService/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/src/main/java/com/stackroute/eurekaserverservice/EurekaServerServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server-service/src/test/java/com/stackroute/eurekaserverservice/EurekaServerServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-config-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-config-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-config-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-config-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-config-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-config-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-config-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-config-server/src/main/java/com/stackroute/springconfigserver/SpringConfigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-config-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-config-server/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-config-server/src/test/java/com/stackroute/springconfigserver/SpringConfigServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-track-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-track-service/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-track-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-track-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-track-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-track-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-track-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-track-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-track-service/src/main/java/com/stackroute/springeurekaclienttrackservice/SpringEurekaClientTrackServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-track-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-track-service/src/test/java/com/stackroute/springeurekaclienttrackservice/SpringEurekaClientTrackServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-eureka-client-user-service/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9d204ef1-2dff-4ca0-b1e5-b5f6201e683d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TrackService.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrackService/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserService.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserService/src/main/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -48,25 +13,19 @@
       <change beforePath="$PROJECT_DIR$/TrackService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TrackService/src/main/java/com/stackroute/MuzixRestfulService/MuzixRestfulServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/main/java/com/stackroute/MuzixRestfulService/MuzixRestfulServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TrackService/src/main/java/com/stackroute/MuzixRestfulService/StartUpApplicationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/main/java/com/stackroute/MuzixRestfulService/StartUpApplicationListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrackService/src/main/java/com/stackroute/MuzixRestfulService/repository/TrackRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/main/java/com/stackroute/MuzixRestfulService/repository/TrackRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrackService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserService/src/main/java/com/stackroute/SpringBoot_Restful_Service/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/main/java/com/stackroute/SpringBoot_Restful_Service/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService/src/main/java/com/stackroute/SpringBoot_Restful_Service/SpringBootRestfulServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/main/java/com/stackroute/SpringBoot_Restful_Service/SpringBootRestfulServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server-service/eureka-server-service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/stackroute/gatewayproxyservice/GatewayproxyserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/stackroute/gatewayproxyservice/GatewayproxyserviceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-config-server/spring-config-server.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-eureka-client-track-service/spring-eureka-client-track-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/UserService/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/spring-config-server/target/" />
     <ignored path="$PROJECT_DIR$/gateway-service/target/" />
     <ignored path="$PROJECT_DIR$/UserService/target/" />
-    <ignored path="$PROJECT_DIR$/spring-config-server/target/" />
-    <ignored path="$PROJECT_DIR$/eureka-server-service/target/" />
-    <ignored path="$PROJECT_DIR$/TrackService/target/" />
     <ignored path="$PROJECT_DIR$/spring-eureka-client-track-service/target/" />
+    <ignored path="$PROJECT_DIR$/TrackService/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server-service/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,19 +39,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TrackService/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/UserService.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state>
+              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TrackService/src/main/java/com/stackroute/MuzixRestfulService/repository/TrackRepository.java">
+        <entry file="file://$PROJECT_DIR$/UserService/src/main/resources/bootstrap.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state>
+              <caret column="35" selection-start-column="24" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -105,9 +64,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TrackService/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/TrackService/src/main/java/com/stackroute/MuzixRestfulService/repository/TrackRepository.java" />
-        <option value="$PROJECT_DIR$/TrackService/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/UserService/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/UserService.properties" />
       </list>
     </option>
   </component>
@@ -129,14 +87,56 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
+              <item name="UserService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot_Restful_Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBoot_Restful_Service" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringBootRestfulServiceApplication.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="MuxizApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EurekaServerServiceApplication">
+  <component name="RunManager" selected="Application.SpringBootRestfulServiceApplication">
     <configuration name="EurekaServerServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.eurekaserverservice.EurekaServerServiceApplication" />
       <module name="eureka-server-service" />
@@ -173,12 +173,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MuzixRestfulServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.MuzixRestfulService.MuzixRestfulServiceApplication" />
-      <module name="MuzixRestfulService" />
+    <configuration name="SpringBootRestfulServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.SpringBoot_Restful_Service.SpringBootRestfulServiceApplication" />
+      <module name="SpringBoot_Restful_Service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.MuzixRestfulService.*" />
+          <option name="PATTERN" value="com.stackroute.SpringBoot_Restful_Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringConfigServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.springconfigserver.SpringConfigServerApplication" />
+      <module name="spring-config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.springconfigserver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,8 +201,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpringBootRestfulServiceApplication" />
         <item itemvalue="Application.EurekaServerServiceApplication" />
-        <item itemvalue="Application.MuzixRestfulServiceApplication" />
+        <item itemvalue="Application.SpringConfigServerApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -198,11 +212,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1b30759f-49dd-4075-acb3-dafed370f9ed" name="Default Changelist" comment="" />
-      <created>1559120216927</created>
+      <changelist id="9d204ef1-2dff-4ca0-b1e5-b5f6201e683d" name="Default Changelist" comment="" />
+      <created>1559127483823</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559120216927</updated>
+      <updated>1559127483823</updated>
     </task>
     <servers />
   </component>
@@ -214,15 +228,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35104236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.20375335" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2935657" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4302949" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -236,40 +250,93 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24949563" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TrackService/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/spring-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/TrackService/src/main/java/com/stackroute/MuzixRestfulService/repository/TrackRepository.java">
+    <entry file="file://$PROJECT_DIR$/spring-config-server/src/main/java/com/stackroute/springconfigserver/SpringConfigServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TrackService/src/main/java/com/stackroute/MuzixRestfulService/MuzixRestfulServiceApplication.java">
+    <entry file="file://$PROJECT_DIR$/spring-eureka-client-track-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-eureka-client-track-service/src/main/java/com/stackroute/springeurekaclienttrackservice/SpringEurekaClientTrackServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="195">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TrackService/src/main/java/com/stackroute/MuzixRestfulService/service/TrackServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/TrackService.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserService/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TrackService/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/spring-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-config-server/src/main/resources/bootstrap.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserService/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserService/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserService.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
