@@ -11,6 +11,7 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 @EnableZuulProxy
+//@EnableEurekaClient
 public class GatewayproxyserviceApplication {
 
 	public static void main(String[] args) {

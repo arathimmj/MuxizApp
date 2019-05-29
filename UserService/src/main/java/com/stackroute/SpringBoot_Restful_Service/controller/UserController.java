@@ -24,7 +24,7 @@ public class UserController {
 
         try{
             userService.saveUser(user);
-            responseEntity = new ResponseEntity<String>("Successfully created.", HttpStatus.CREATED);
+            responseEntity = new ResponseEntity<String>("Successfully created", HttpStatus.CREATED);
         }
         catch (Exception ex){
             responseEntity = new ResponseEntity<String>(ex.getMessage(), HttpStatus.CONFLICT);
