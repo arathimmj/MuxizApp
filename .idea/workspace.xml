@@ -134,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GatewayproxyserviceApplication">
+  <component name="RunManager" selected="Application.MuzixRestfulServiceApplication">
     <configuration name="EurekaServerServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.eurekaserverservice.EurekaServerServiceApplication" />
       <module name="eureka-server-service" />
@@ -202,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GatewayproxyserviceApplication" />
-        <item itemvalue="Application.MuzixRestfulServiceApplication" />
         <item itemvalue="Application.SpringBootRestfulServiceApplication" />
         <item itemvalue="Application.EurekaServerServiceApplication" />
         <item itemvalue="Application.SpringConfigServerApplication" />
+        <item itemvalue="Application.GatewayproxyserviceApplication" />
+        <item itemvalue="Application.MuzixRestfulServiceApplication" />
       </list>
     </recent_temporary>
   </component>
