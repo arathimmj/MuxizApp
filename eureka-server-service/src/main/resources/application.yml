@@ -1,4 +1,4 @@
-erver:
+server:
   port: ${PORT:8761} # Indicate the default PORT where this service will be started
 
 eureka:
