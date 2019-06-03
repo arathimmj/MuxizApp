@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eureka-server-service" />
+        <module name="spring-config-server" />
         <module name="gatewayproxyservice" />
         <module name="MuzixRestfulService" />
-        <module name="spring-config-server" />
+        <module name="eureka-server-service" />
         <module name="SpringBoot_Restful_Service" />
       </profile>
     </annotationProcessing>

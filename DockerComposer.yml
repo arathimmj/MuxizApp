@@ -1,0 +1,48 @@
+version: "2"
+services:
+
+  apigateway:
+    build: ./gateway-service
+    restart: always
+    network_mode: host
+    depends_on:
+      - eurekaserver
+    ports:
+      - 8080:8080
+
+
+  eurekaserver:
+    build: ./spring-eureka-server
+    restart: always
+    network_mode: host
+    ports:
+      - 8761:8761
+
+
+  configserver:
+    build: ./spring-config-server
+    restart: always
+    network_mode: host
+    ports:
+      - 8888:8888
+
+
+  userservice:
+    build: ./UserService
+    restart: always
+    network_mode: host
+    depends_on:
+      - eurekaserver
+    ports:
+      - 8090:8090
+
+  trackservice:
+    build: ./TrackService
+    restart: always
+    network_mode: host
+    depends_on:
+      - eurekaserver
+    ports:
+      - 8070:8070
+
+
