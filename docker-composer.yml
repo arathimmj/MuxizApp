@@ -31,7 +31,7 @@ services:
     build: ./UserService
     restart: always
     network_mode: host
-    depends_on:
+    depends_on:cf
       - eurekaserver
     ports:
       - 8090:8090
