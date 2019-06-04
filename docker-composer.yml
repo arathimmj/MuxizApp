@@ -45,4 +45,29 @@ services:
     ports:
       - 8070:8070
 
+  mongo:
+    image: mongo
+    restart: always
+    ports:
+      - 27017:27017
+    network_mode: host
+    volumes:
+      - $HOME/mongo/db:/data/db
 
+    mysql:
+      image: mysql:5.7
+      ports:
+        - 3306:3306
+      expose:
+        - 3306
+      container_name: mysql
+      environment:
+        MYSQL_ROOT_PASSWORD: root123
+        MYSQL_DATABASE: userServive
+        MYSQL_PASSWORD: root123
+        MYSQL_USER: root
+      network_mode: "host"
+      hostname: localhost
+      restart: always
+      volumes:
+        - /$HOME/mysql:/var/lib/mysql
